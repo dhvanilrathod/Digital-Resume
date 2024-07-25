@@ -2,7 +2,7 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/Dhvanil Rathod CV.pdf)
 
-View live demo here using github pages: [Live Demo](https://github.com/dhvanilrathod/Digital-Resume/)
+View live demo here using github pages: [Live Demo](https://dhvanilrathod.github.io/Digital-Resume/)
 
 
 
